@@ -109,3 +109,9 @@ atexit.register(lambda: scheduler.shutdown())
 if __name__ == "__main__":
     send_videos_job() # Run once on startup to send the first video immediately
     app.run(host="0.0.0.0", port=5000, debug=True)
+
+
+
+
+env file
+VIDEO_FOLDER_PATH="C:/Users/Administrator/Desktop/videos"
