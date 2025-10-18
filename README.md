@@ -115,3 +115,7 @@ if __name__ == "__main__":
 
 env file
 VIDEO_FOLDER_PATH="C:/Users/Administrator/Desktop/videos"
+
+Client id
+gg494696160659-ld9i14plpdk51ppmljp7k9rq6098n295.apps.googleusercontent.comgg
+ggGOCSPX-LrXLSVJSUUaiKzA21Ooi5VF0EPVFgg
